@@ -2,7 +2,9 @@
    APP URL : - https://waferfaultdetection16.herokuapp.com/
    
    <b>Click On</b> - Train WaferFault Detection to Train the Model with the EXISTING Data Available
+   
    <b>Click On</b>- Default File Predict to PREDICT the Model with the EXISTING Data Available
+   
    <b>Click On</b>- Custom File Predict to PREDICT the Model While Providing Proper Data
    
 #### Problem Statement:
